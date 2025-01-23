@@ -1,6 +1,6 @@
  Hi there 👋
 
---## Hey 👋, This is Joel Fernandez
+ Hey 👋, This is Joel Fernandez
 [![Gmail Badge](https://img.shields.io/badge/-jfernandez9779@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jfernandez9779@gmail.com)](mailto:jfernandez9779@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Joel Fernandez-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Joel Fernandez/)](https://www.linkedin.com/in/Joel Fernandez/) [![Github Badge](https://img.shields.io/badge/-joel9779-grey?style=flat&logo=github&logoColor=white&link=https://github.com/joel9779/)](https://www.github.com/joel9779/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/joel9779/)](https://github.com/joel9779/) <p align='left'>I am currently working on multiple machine learning projects with Tripleten.
 
